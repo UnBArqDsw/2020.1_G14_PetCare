@@ -1,25 +1,17 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto). !!** 
+# PetCare
 
-**!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: 2020.1_G1_ProjetoPandora!!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 14<br>
 **Código da Disciplina**: FGA0208-T01<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 13/0132233  |  Ricardo Lima Canela |
+| 14/0160205  |  Ramon Silva Sales |
+| 14/0139281  |  Fernando Ribeiro Aguiar |
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais. 
+O projeto PetCare é uma iniciativa de ajudar na saúde de Pets necessitados por meio de um sistema que permite a doação financeira por amantes de Pets que queiram e possam ajudar com o bem estar dos bichinhos.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
