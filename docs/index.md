@@ -22,5 +22,5 @@ Informações dos colaboradores:
 
 
 ### Contribuir
-Para contribuir com a gente, o colaborador deve ler o código de conduta #TODO, dar um _fork_ e enviar um [pull request](https://github.com/UnBArqDsw/2020.1_G14_PetCare/pulls) com sua contribuição.
+Para contribuir, o colaborador deve ler o código de conduta #TODO, dar um _fork_ e enviar um [pull request](https://github.com/UnBArqDsw/2020.1_G14_PetCare/pulls) com sua contribuição.
 O código será analisado por um dos proprietários do projeto e, se aprovado, incluído no núcleo da aplicação.
