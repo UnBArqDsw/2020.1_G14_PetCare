@@ -13,11 +13,9 @@ nav:
 theme:
   name: material
   language: 'pt'
-  logo:
-    icon: 'phone_iphone'
   palette:
-    primary: 'red'
-    accent: 'pink'
+    primary: 'light blue'
+    accent: 'teal'
 
 
 # Repository
