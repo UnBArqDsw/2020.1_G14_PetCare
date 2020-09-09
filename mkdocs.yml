@@ -10,16 +10,27 @@ nav:
     - Diagrama de Causa-Efeito: base/diagrama-causa-efeito.md
     - Plano de gerencimaneto de Custos: base/plano-custos.md
 
-# Configuration
+# # Configuration
+# theme:
+#   name: 'material'
+#   language: 'pt'
+#   logo:
+#     icon: 'spa'
+#   palette:
+#     primary: 'light blue'
+#     accent: 'teal'
+
 theme:
-  name: 'material'
+  name: material
   language: 'pt'
   logo:
-    icon: 'spa'
+    icon: 'phone_iphone'
   palette:
-    primary: 'light blue'
-    accent: 'teal'
+    primary: 'red'
+    accent: 'pink'
+
 
 # Repository
 repo_name: 'PetCare'
 repo_url: 'https://github.com/UnBArqDsw/2020.1_G14_PetCare'
+
