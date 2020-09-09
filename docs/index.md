@@ -5,7 +5,7 @@
 </p>
 
 ### Sobre
-PetCare tem como propósito ajudar os Pets a terem uma melhor saúde e qualidade de vida.  
+PetCare tem como propósito ajudar os Pets necessitados a terem uma melhor saúde e qualidade de vida.  
 
 ### Ambiente de Desenvolvimento
 Para executar o ambiente de desenvolvimento, acesse o guia #TODO 

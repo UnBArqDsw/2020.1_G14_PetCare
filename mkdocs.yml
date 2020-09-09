@@ -10,16 +10,6 @@ nav:
     - Diagrama de Causa-Efeito: base/diagrama-causa-efeito.md
     - Plano de gerencimaneto de Custos: base/plano-custos.md
 
-# # Configuration
-# theme:
-#   name: 'material'
-#   language: 'pt'
-#   logo:
-#     icon: 'spa'
-#   palette:
-#     primary: 'light blue'
-#     accent: 'teal'
-
 theme:
   name: material
   language: 'pt'
