@@ -1,0 +1,24 @@
+# Project information
+site_name: PETCARE
+
+# Repository
+repo_name: 'UnBArqDsw/2020.1_G14_PetCare'
+repo_url: 'https://github.com/UnBArqDsw/2020.1_G14_PetCare'
+
+# Configuration
+theme:
+  name: 'material'
+  palette:
+    primary: 'light blue'
+    accent: 'teal'
+  logo:
+    icon: 'spa'
+
+# Navigation
+nav:
+  - Home: index.md
+  - Base:
+      - Rich Picture: base/rich-picture.md
+      - 5W2H: base/5w2h.md
+      - Diagrama de Causa-Efeito: base/diagrama-causa-efeito.md
+      - Plano de gerencimaneto de Custos: base/plano-custos.md
