@@ -10,7 +10,7 @@ Esse documento tem a finalidade de mostrar o Product Backlog do projeto PetCare
 ## Product Backlog
 
 | ID | Eu, como | Desejo | Para | Prioridade |
-| --- | --- |
+| --- | --- | --- | --- | --- |
 | RF 01 | Dono de pet | Realizar cadastro e login no sistema | Utilizar as funcionalidades | Must |
 | RF 02 | Doador | Realizar cadastro e login no sistema | Utilizar as funcionalidades | Must |
 | RF 03 | Dono de Pet | Registrar um ou mais pets | Poder publicar uma necessidade do pet | Must |

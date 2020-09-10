@@ -18,24 +18,24 @@ A equipe se reuniu por video chamada por um período de 3 horas para debater ide
 Voluntariados 
 - Suporte Psicologico / social  
 - Limpeza pública  
-- Pessoas com deficiencia / idosos/ moradores de rua /  hospitalizados
-- Mobilidade urbana
+- Pessoas com deficiencia / idosos/ moradores de rua /  hospitalizados  
+- Mobilidade urbana  
 - Reforço escolar  
-- Ajuda a animais com necessidades
-- Serviço braçal (limpeza de casa, jardinagem) 
+- Ajuda a animais com necessidades  
+- Serviço braçal (limpeza de casa, jardinagem)  
 
 #### Dentre as possibilidades levantadas, o projeto que mais chamou nossa atenção foi a de Suporte a animais com necessidades. Como poderíamos dar suporte a esses animais?
 
-Tipos de suporte a animais
-- Alimentação 
-- Vacinas 
-- Remédios 
-- Veterinário 
-- Cirurgia (Castração) 
-- Doação financeira para suprir demandas de saúde
-- Levar para passear (aumenta o escopo?) 
-- Compartilhar necessidades entre redes sociais 
-- Transparência de que a doação está sendo feita de forma correta
+Tipos de suporte a animais  
+- Alimentação   
+- Vacinas  
+- Remédios  
+- Veterinário  
+- Cirurgia (Castração)  
+- Doação financeira para suprir demandas de saúde  
+- Levar para passear (aumenta o escopo?)  
+- Compartilhar necessidades entre redes sociais  
+- Transparência de que a doação está sendo feita de forma correta  
 
 #### Observando as formas elicitadas de como dar suporte a esses animais, qual seria o objetivo principal do projeto?
 
@@ -49,10 +49,10 @@ Assim que a publicação da demanda do pet atingir o valor estabelecido, o dono 
 
 #### Ideias para uma possível melhoria do sistema no futuro:
 
-- Ter outras contribuições sem ser apenas a financeira
-- Poder gerar renda através de amantes de pets assistindo anúncios que seriam doados para a fila de espera
-- Poder incluir participação de veterinários que queiram ajudar na melhoria da saúde de pets com necessidades
-- Poder incluir atividades e mutirões para dar suporte a animais de ruas para quem quer ajudar e não pode fazer de forma financeira
+- Ter outras contribuições sem ser apenas a financeira  
+- Poder gerar renda através de amantes de pets assistindo anúncios que seriam doados para a fila de espera  
+- Poder incluir participação de veterinários que queiram ajudar na melhoria da saúde de pets com necessidades  
+- Poder incluir atividades e mutirões para dar suporte a animais de ruas para quem quer ajudar e não pode fazer de forma financeira  
 
 ## Requisitos elicitados
 
