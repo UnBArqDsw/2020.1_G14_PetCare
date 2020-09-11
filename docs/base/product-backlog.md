@@ -2,7 +2,7 @@
 ### Histórico de revisão
 Data | Versão | Descrição | Autor |
 --------- | ------ | ------------ | --------- |
-10/09/2020 | 0.1 | Criação do documento | Ricardo Canela, Ramon Sales, Fernando Aguilar |
+10/09/2020 | 0.1 | Criação do documento | Ricardo Canela, Fernando Aguilar |
 
 ## 1. Introdução
 Esse documento tem a finalidade de mostrar o Product Backlog do projeto PetCare 
@@ -22,3 +22,7 @@ Esse documento tem a finalidade de mostrar o Product Backlog do projeto PetCare
 | RF 09 | Dono de Pet | Ser notificado e indicar confirmação quando a publicação da necessidade do pet atingir o valor requisitado | Resgatar o dinheiro e tratar a necessidade do Pet | Must |
 | RF 10 | Dono de Pet | Resgatar o dinheiro atingido pela publicação | Tratar a necessidade do Pet | Must |
 | RF 11 | Dono de Pet | Inserir uma nota fiscal após o tratamento da necessidade | Comprovar o correto uso do dinheiro | Could |
+| RNF 01 | Desenvolvedor | Desenvolver telas de interação responsivas | Possuir um layout adequado para dispositivos móveis | Could |
+| RNF 02 | Desenvolvedor | Desenvolver interface simples e interativa ao usuário | O sistema possuir alta usabilidade | Should |
+| RNF 03 | Desenvolvedor | Desenvolver código com boas práticas de programação | O sistema possuir alta manutenibilidade | Must |
+| RNF 04 | Desenvolvedor | Desenvolver uma arquitetura adequada | O sistema possuir alto desempenho e segurança | Must |

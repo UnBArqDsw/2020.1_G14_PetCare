@@ -4,10 +4,10 @@ Data | Versão | Descrição | Autor |
 --------- | ------ | ------------ | --------- |
 10/09/2020 | 0.1 | Criação do documento | Ricardo Lima Canela, Fernando Aguilar |
 
-## 1. Introdução
+## Introdução
 A técnica LAL (Léxico Ampliado da Linguagem) é utilizada para simplificar a comunicação entre os _steakholders_, onde os termos, palavras e frases do projeto são definidas e explicadas. Essa técnica procura identificar as palavras ou frases próprias do contexto do projeto para que não existam dúvidas sobre os termos utilizados.
 
-## 2. Metodologia
+## Metodologia
 Aqui estão presentes alguns termos, palavras e frases recorrentes no projeto, classificados como verbo ou objeto. Existe também uma descrição da noção, que é seu significado, e seu impacto no projeto. Existe uma tabela para cada léxico contendo o rastro de qual requisito o originou.
 
 | Tag | Título |

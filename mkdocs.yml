@@ -13,6 +13,8 @@ nav:
     - Lexico: base/lexico.md
     - Moscow: base/moscow.md
     - Product Backlog: base/product-backlog.md
+    - Metodologia: base/metodologia.md
+    - Modelagem da Metodologia: base/modelagem-metodologia.md
 
 theme:
   name: material
