@@ -136,20 +136,31 @@ Um projeto para melhorar a saúde e qualidade de vida de pets através de um sis
 ## 5. Recursos do Produto
 
 Tipos de suporte a animais  
-- Alimentação
-- Vacinas  
-- Remédios  
-- Veterinário  
-- Cirurgia (Castração)  
-- Doação financeira para suprir demandas de saúde  
-- Levar para passear (aumenta o escopo?)  
-- Compartilhar necessidades entre redes sociais  
-- Transparência de que a doação está sendo feita de forma correta  
+
+* Alimentação
+* Vacinas  
+* Remédios  
+* Veterinário  
+* Cirurgia (Castração)  
+* Doação financeira para suprir demandas de saúde  
+* Levar para passear (aumenta o escopo?)  
+* Compartilhar necessidades entre redes sociais  
+* Transparência de que a doação está sendo feita de forma correta  
 
 ## 6. Restrições
 
 ### 6.1 Restrições de implementação
 
+O sistema deverá ser implementado em uma stack de tecnologia moderna, manutenivel, de fácil aprendizagem, multi-plataformas, e escalável.
+
 ### 6.2 Restrições externas
 
+Dentre as restrições externas as que mais irão influenciar são a experiencia do time de desenvolvimento. A capacidade de escala dos servidores, e a qualidade dos procesos de atualização do código.
+
 ### 6.3 Restrições de design
+
+O sistema deve ter uma interface que seja de fácil uso para pessoas
+
+Com uma plataforma intuitiva, com ícones e botões de fácil pesquisa e acesso.
+
+O sistema deve evitar utilizar linguagem positiva, ser amigável ao usuário e estar relacionado com o contexto de animais de estimação.

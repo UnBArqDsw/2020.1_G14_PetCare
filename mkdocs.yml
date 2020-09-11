@@ -13,6 +13,11 @@ nav:
     - Lexico: base/lexico.md
     - Moscow: base/moscow.md
     - Product Backlog: base/product-backlog.md
+    - Documento de Visão: base/visao.md
+    - Plano de Riscos: base/plano-de-riscos.md
+    - Cronograma: base/cronograma.md
+    - Mapa Mental: base/mind-map.md
+
 
 theme:
   name: material
