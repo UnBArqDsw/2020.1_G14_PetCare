@@ -2,7 +2,7 @@
 ### Histórico de revisão
 Data | Versão | Descrição | Autor |
 --------- | ------ | ------------ | --------- |
-09/09/2020 | 0.1 | Criação do documento | Ricardo Lima Canela |
+09/09/2020 | 0.1 | Criação do documento | Ricardo Lima Canela, Fernando Aguilar |
 
 ## 1. Introdução
 O Rich Picture é um artefato usado para entender de forma visual, o fluxo e a complexidade de uma situação. Geralmente usado na fase de pré-rastreabilidade para analisar problemas e expressar ideias.

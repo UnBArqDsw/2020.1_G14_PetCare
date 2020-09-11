@@ -9,6 +9,10 @@ nav:
     - 5W2H: base/5w2h.md
     - Diagrama de Causa-Efeito: base/diagrama-causa-efeito.md
     - Plano de gerencimaneto de Custos: base/plano-custos.md
+    - Brainstorm: base/brainstorm.md
+    - Lexico: base/lexico.md
+    - Moscow: base/moscow.md
+    - Product Backlog: base/product-backlog.md
 
 theme:
   name: material
