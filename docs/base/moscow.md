@@ -5,13 +5,13 @@ Data | Versão | Descrição | Autor |
 10/09/2020 | 0.1 | Criação do documento | Ricardo Lima Canela |
 
 
-## 1. Introdução
+## Introdução
 Este documento foi desenvolvido para a disciplina de Desenho e Arquitetura de Software, da Universidade de Brasília, com o intuito de priorizar as funcionalidades do projeto PetCare.
 
-## 2. Objetivo
+## Objetivo
 O documento presente visa demonstrar como será realizado a priorizaçãodos requisitos referentes ao projeto PetCare, sendo esses requisitos o resultado dos processos de elicitação aplicados. As classificações de prioridade Moscow estão representadas em cada um dos requisitos funcionais na seção _Product Backlog_
 
-## 3. MoSCoW
+## MoSCoW
 Os requisitos listados abaixo foram obtidos a partir das técnicas de elicitação apresentadas anteriormente.
 
 _Must_: O que acontece se esse requisito não for atendido? ”Se a resposta for cancelar o projeto então deve se usar o must, não é possível entregar na data prevista sem isso, Inseguro sem isso.

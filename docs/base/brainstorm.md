@@ -4,11 +4,11 @@ Data | Versão | Descrição | Autor |
 --------- | ------ | ------------ | --------- |
 10/09/2020 | 0.1 | Criação do documento | Ricardo Canela, Fernando Aguilar  |
 
-## 1. Introdução
+## Introdução
 O brainstorm é uma técnica de elicitação de requisitos que consiste em reunir _steakholders_ e discutir sobre tópicos do projeto. No brainstorm é incentivado todo tipo de ideia que possa contribuir com o projeto e são evitadas críticas para permitir que todos se sintam a vontade de propor novas ideias.
 
 
-## 2. Metodologia
+## Metodologia
 A equipe se reuniu por video chamada por um período de 3 horas para debater ideias sobre possibilidades de projeto e o Ricardo Canela foi o moderador, direcionando a equipe com questões e transcrevendo as respostas para o documento.
 
 ## Brainstorm v1

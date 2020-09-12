@@ -17,7 +17,8 @@ nav:
     - Plano de Riscos: base/plano-de-riscos.md
     - Cronograma: base/cronograma.md
     - Mapa Mental: base/mind-map.md
-
+    - Metodologia: base/metodologia.md
+    - Modelagem da Metodologia: base/modelagem-metodologia.md
 
 theme:
   name: material
