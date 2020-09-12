@@ -6,4 +6,4 @@ Mapa mental consiste em criar resumos utilzando símbolos, cores, setas e frases
 
 ### Mapa mental - Geral
 
-![Mapa Mental 01](img/mind-map-01.png)
+![Mapa Mental 01](img/mind-map-01.jpg)
